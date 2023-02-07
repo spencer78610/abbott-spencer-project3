@@ -30,12 +30,12 @@
 }
 
 #box3 {
-    display: contents;
+    display: none;
     background-color: grey;
 }
 
 #box4 {
-    display: contents;
+    display: none;
     background-color: brown;
 }
 
